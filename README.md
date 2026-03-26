@@ -7,7 +7,7 @@ Manipulação de caracteres
 
 # Passo a Passo Para Rodar o Codigo Manualmente
 
-cd exercicio1_two_sum 
-gcc main.c -o programa
+cd ../exercicio1_two_sum
+gcc (nome do .C) -o programa
 ./programa
 
