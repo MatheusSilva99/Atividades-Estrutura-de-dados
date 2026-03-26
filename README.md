@@ -1,5 +1,5 @@
 # Atividades-Estrutura-de-dados
-Repositório contendo os exercícios em linguagem C.  Os exercícios abordam conceitos como:  
+Repositório contendo os exercícios em linguagem C.  Os exercícios falam  sobre:  
 Vetores 
 Estruturas de repetição 
 Condições
